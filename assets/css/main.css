@@ -2326,14 +2326,14 @@ input, select, textarea {
 		.image.featured {
 			display: block;
 			margin: 0 0 3em 0;
-			width: 50%;
+			width: 25%;
 		}
 
 			.image.featured img {
-				width: 50%;
+				width: 25%;
 			}
 
-			@media screen and (max-width: 736px) {
+			@media screen and (max-width: 300px) {
 
 				.image.featured {
 					margin: 0 0 1.5em 0;
