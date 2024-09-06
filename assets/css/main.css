@@ -2333,7 +2333,7 @@ input, select, textarea {
 				width: 25%;
 			}
 
-			@media screen and (max-width: 300px) {
+			@media screen and (max-width: 50px) {
 
 				.image.featured {
 					margin: 0 0 1.5em 0;
